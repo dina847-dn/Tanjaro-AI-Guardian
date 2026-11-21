@@ -1,0 +1,7 @@
+Normal PASS
+Possible blockage PASS
+Poor filtration PASS
+Mixed abnormality PASS
+Sensor fault PASS
+Invalid and out-of-envelope checks PASS
+RF accuracy 0.9783333333333334 baseline 0.9666666666666667
