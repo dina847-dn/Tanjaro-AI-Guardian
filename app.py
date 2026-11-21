@@ -4,7 +4,7 @@ import plotly.express as px
 from sklearn.metrics import accuracy_score,classification_report,confusion_matrix
 from model import *
 from datetime import datetime,timezone
-st.set_page_config(page_title='Tanjaro AI Guardian',page_icon='💧',layout='wide')
+st.set_page_config(page_title='Tanjaro AI Guardian', page_icon='Screenshot 2026-11-22 005652.png', layout='wide')
 st.markdown('''<style>.stApp{background:#f5f8fb;color:#15324b} [data-testid="stMetric"]{background:white;border:1px solid #d9e4eb;padding:16px;border-radius:10px} h1,h2,h3{color:#123b54}</style>''',unsafe_allow_html=True)
 st.title('TANJARO AI GUARDIAN')
 st.caption('AI-assisted wastewater monitoring | Diya Shirwan & Dina Shirwan | Civil Engineering · KUST')
